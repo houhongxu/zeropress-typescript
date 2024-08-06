@@ -3,7 +3,7 @@
   "description": "",
   "scripts": {
     "build": "zeropress build",
-    "serve": "npm run build && serve ./dist"
+    "serve": "npm run build && serve ./dist -l 9999"
   },
   "keywords": [],
   "author": "",
