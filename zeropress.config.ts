@@ -21,6 +21,7 @@ const config: UserConfig = {
       format: "YYYY-MM-DD",
     },
     editLink: {
+      // 需要更换为自己仓库路径
       pattern: "https://github.com/houhongxu/site/edit/master/docs/:path",
       text: "编辑",
     },
