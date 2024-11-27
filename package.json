@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "zeropress": "^0.0.41"
+    "zeropress": "^0.0.42"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
